@@ -1,0 +1,25 @@
+@import '../../scss/style';
+
+.hero-block {
+  background: no-repeat url('Image.png') 50%;
+  height: 904px;
+  &__titles {
+    text-align: center;
+   padding-top: 383px;
+    &-main-title {
+      font-style: normal;
+      font-weight: 500;
+      font-size: 72px;
+      line-height: 107px;
+      color: $baseWhiteColor;
+      text-transform: uppercase;
+    }
+    &-subtitle {
+      font-size: 20px;
+      line-height: 23px;
+      color: $baseWhiteColor;
+      mix-blend-mode: normal;
+      opacity: 0.8;
+    }
+  }
+}

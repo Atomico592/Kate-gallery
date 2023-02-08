@@ -1,15 +1,12 @@
 import React from 'react';
-import Header from "../Header/Header";
-import "./Main.scss"
+import HeroBlock from "../HeroBlock/HeroBlock";
+import Footer from "../Footer/Footer";
 
 const Main = () => {
     return (
         <>
-        <div className="main-block">
-            <div className="container">
-            <Header/>
-            </div>
-        </div>
+        <HeroBlock/>
+        <Footer/>
         </>
     )
 }

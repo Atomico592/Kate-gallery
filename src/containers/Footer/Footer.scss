@@ -1,0 +1,17 @@
+@import "../../scss/style";
+
+.footer {
+  &__main-block {
+    height: 339px;
+    background-color: $blackGrayColor;
+  }
+  &__under-block {
+    background-color: $baseBlackColor;
+    height: 58px;
+    text-align: center;
+    &-content {
+      display: inline-block;
+      padding-top: 21px;
+    }
+  }
+}

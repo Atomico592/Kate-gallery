@@ -1,0 +1,12 @@
+@import "../../../scss/style";
+
+.footer-text {
+  &__style {
+    color: $baseWhiteColor;
+    opacity: 0.5;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 13px;
+    line-height: 19px;
+  }
+}

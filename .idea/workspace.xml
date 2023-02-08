@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f2718a2-7945-458a-aedd-389226da42ad" name="Changes" comment="Create a project">
-      <change afterPath="$PROJECT_DIR$/src/containers/Header/NavBar/NavBar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/Main/Main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/partials/_base.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/partials/_colors.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/partials/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/partials/_vars.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/Header/NavBar/NavBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Header/NavBar/NavBar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/Main/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Main/Main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-    </list>
+    <list default="true" id="7f2718a2-7945-458a-aedd-389226da42ad" name="Changes" comment="Added main, header blocks" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +64,7 @@
       <workItem from="1675524389680" duration="247000" />
       <workItem from="1675679406194" duration="677000" />
       <workItem from="1675681151494" duration="2471000" />
-      <workItem from="1675685336148" duration="8100000" />
+      <workItem from="1675685336148" duration="8385000" />
     </task>
     <task id="LOCAL-00001" summary="Create and set up a project">
       <created>1675681201639</created>
@@ -105,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675686687228</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added main, header blocks">
+      <created>1675697855854</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675697855855</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +115,7 @@
     <MESSAGE value="Create and set up a project" />
     <MESSAGE value="Recreate project" />
     <MESSAGE value="Create a project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create a project" />
+    <MESSAGE value="Added main, header blocks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added main, header blocks" />
   </component>
 </project>
